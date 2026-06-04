@@ -51,8 +51,6 @@ Engineering leader with **15+ years** building and scaling consumer mobile and w
 
 ### Currently building
 
-- **Planar** — a visual, editable *plan diagram* for AI coding agents: see the plan before execution, edit nodes, discuss steps live, then watch it run. React + shadcn UI with a Python live bridge.
-- **Agent dev-tooling** — session &amp; plan visualisers that turn an AI coding session into an interactive flow graph.
 
 ---
 
